@@ -36,14 +36,14 @@ Technology Used :
 
 Key Insights
 
-Make it easy to use: Design controls that are simple and intuitive.
+* Make it easy to use: Design controls that are simple and intuitive.
 
-Create realistic worlds: Build believable environments that feel real.
+* Create realistic worlds: Build believable environments that feel real.
 
-Tell great stories: Engage users with compelling narratives.
+* Tell great stories: Engage users with compelling narratives.
 
-Test often: Try out your design with users to see what works and what doesn't.
+* Test often: Try out your design with users to see what works and what doesn't.
 
-Be ethical: Protect user privacy and avoid harmful experiences.
+* Be ethical: Protect user privacy and avoid harmful experiences.
 
-Keep up with the latest trends: Stay informed about new technologies and design techniques.
+* Keep up with the latest trends: Stay informed about new technologies and design techniques.
