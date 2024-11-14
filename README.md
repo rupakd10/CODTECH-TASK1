@@ -47,3 +47,8 @@ Key Insights
 * Be ethical: Protect user privacy and avoid harmful experiences.
 
 * Keep up with the latest trends: Stay informed about new technologies and design techniques.
+
+![website discover page](https://github.com/user-attachments/assets/351ce034-440a-4f15-846a-06931a271433)
+
+Prototype file: https://www.figma.com/design/TCA2AhWnvA5BMljdKn7cBd/website-discover-page?node-id=0-1&t=l5qbt3TkQpiElWYK-1
+
